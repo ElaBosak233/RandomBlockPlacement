@@ -1,7 +1,7 @@
 name: RandomBlockPlacement
-version: 1.0.0
+version: 1.1.0
 main: cn.elabosak.rblock.Main
-api-version: 1.12.2
+api-version: 1.13
 authors: [ElaBosak233]
 description: Random block placement mod -- the plugin version of RandomBlockPlacement
 website: https://elabosak.cn
