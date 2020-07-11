@@ -21,3 +21,6 @@ whitelist.json
 
 ## IntelliJ IDEA
 .idea
+
+## Gradle Build
+build
