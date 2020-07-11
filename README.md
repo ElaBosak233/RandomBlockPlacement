@@ -1,6 +1,6 @@
 # RandomBlockPlacement
 
- > ⭐ The plugin version of RandomBlockPlacement
+ > ⭐ The plugin version of [RandomBlockPlacement](https://www.curseforge.com/minecraft/mc-mods/randomblockplacement?__cf_chl_jschl_tk__=3dc3e645d7df1dd702992700c31bdf5c29a5d8b1-1594464611-0-AZnu6Mg6KnU5Agh7FLuezc8sycYUgx8R-dQmZmpnEZTwjTy2N1ZiSbYktEt6ZyycW7qFAfU3i2RT_yoXuTSBxahRd5YJZFxBrJetknylDouxuy2EaWpk5L0xuFCsPRJUPASEP8W4p58SbaZwgej0aqMzQqLqBS9MsCtDgtSaJStfuc0blkqS0xe5Lgpt90DNV2wcXD-zyAUF2kS8psTvsvjw7UGjeE29YVux8mR7z_xKwAic49gh04FD-xCOCnsrYOsekdyz6DeuG8lAs4H7wvLyGUTKYf4X4c6kZ026-6qrVklgnhnQ7XIgqgqPsLi4wjtD-KVe0xNu8I3PY-r1MS-5Vv1q3VMtvkVQE0WSlir6v3owMMEkapeGJolhCEA6vg)
 
 ![AppVeyor](https://img.shields.io/appveyor/build/ElaBosak233/RandomBlockPlacement?label=Appveyor%20Build&style=flat-square) ![release](https://img.shields.io/github/v/release/ElaBosak233/RandomBlockPlacement?style=flat-square) ![author](https://img.shields.io/badge/author-ElaBosak233-brightgreen?style=flat-square) ![Bukkit](https://img.shields.io/badge/Bukkit-1.12.2-blue?style=flat-square)
 
