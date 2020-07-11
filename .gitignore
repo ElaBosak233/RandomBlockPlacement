@@ -1,0 +1,23 @@
+## Spigot Server
+libs/spigot-1.12.2.jar
+logs
+plugins
+world
+world_nether
+world_the_end
+banned-players.json
+banned-ips.json
+bukkit.yml
+commands.yml
+eula.txt
+help.yml
+ops.json
+permissions.yml
+server.properties
+spigot.yml
+start.bat
+usercache.json
+whitelist.json
+
+## IntelliJ IDEA
+.idea
