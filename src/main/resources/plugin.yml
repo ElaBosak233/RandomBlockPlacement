@@ -1,0 +1,18 @@
+name: RandomBlockPlacement
+version: 1.0.0
+main: cn.elabosak.rblock.Main
+api-version: 1.12.2
+authors: [ElaBosak233]
+description: Random block placement mod -- the plugin version of RandomBlockPlacement
+website: https://elabosak.cn
+
+commands:
+  rblock:
+    description: The general use command of "RandomBlockPlacement"
+    usage: /rblock <Start> <End> or /rblock off
+    permission: rblock.general
+
+permissions:
+  rblock.general:
+    description: The General Permission
+    default: true
