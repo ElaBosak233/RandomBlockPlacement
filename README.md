@@ -20,5 +20,6 @@ Very simple, when you run the command of this plugin, your inventory pointer wil
 
 |**Version**|**Bukkit**|**Content**|**Date**|**Address**
 |:-:|:-:|:-:|:-:|:-:|
+|1.2.0|1.13+|Bug Fixed|2020.7.13|[**Download**](https://github.com/ElaBosak233/RandomBlockPlacement/releases/download/1.2.0/RandomBlockPlacement-1.2.0.jar)|
 |1.1.0|1.13+|1.13+ Supported|2020.7.11|[**Download**](https://github.com/ElaBosak233/RandomBlockPlacement/releases/download/1.1.0/RandomBlockPlacement-1.1.0.jar)|
-|1.0.0|1.12.2|Init Project|2020.7.11|[**Download**](https://github.com/ElaBosak233/RandomBlockPlacement/releases/download/1.0.0/RandomBlockPlacement-1.0.0.jar)
+|1.0.0|1.12.2|Init Project|2020.7.11|[**Download**](https://github.com/ElaBosak233/RandomBlockPlacement/releases/download/1.0.0/RandomBlockPlacement-1.0.0.jar)|

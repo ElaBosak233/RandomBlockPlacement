@@ -94,7 +94,7 @@ public class RblockCmds implements TabExecutor {
                         a = Integer.parseInt(args[0]);
                         b = Integer.parseInt(args[1]);
                     } catch (NumberFormatException e) {
-                        e.printStackTrace();
+                        e.getMessage();
                     }
                     if (a >= 1 && a < b && b <= 9) {
                         Integer start = a - 1;
@@ -122,7 +122,7 @@ public class RblockCmds implements TabExecutor {
     public List<String> onTabComplete(CommandSender sender, Command command, String alias, String[] args) {
         if (args.length == 1) {
             List<String> subCommands = new ArrayList<>();
-            subCommands.add("<Start> <End>");
+            subCommands.add("Start End");
             subCommands.add("off");
             return subCommands;
         }
